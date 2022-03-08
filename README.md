@@ -5,7 +5,7 @@ Built a dashboard modeled after the Momentum dashboard. I used a number of REST 
 
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
-My learning was focused on mostly focused on using various API's.
+My learning was mostly focused on using various API's.
 
 ## Optimizations
 When I improve this project, I would add inspirational quotes from an API and play with the placement of the todo list.
