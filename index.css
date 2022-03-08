@@ -82,3 +82,26 @@ p.weather-temp {
 #author {
     font-size: 1rem;
 }
+
+form {
+    display:flex;
+    justify-content: flex-end;
+    margin-top: 0;
+}   
+
+#list {
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-self: flex-end;
+}
+    
+
+button,
+#todo-label {
+margin-left: 2px;
+}
+
+#todo-label{
+    margin-right: 2px;
+}

@@ -17,6 +17,26 @@
             <h1 class="time">TIME HERE</h1>
             
             <p id="author"></p>
+
+            <ul id="list">
+    
+            </ul>
+            
+            <form id="new-todo-form">
+              <label for="todo-input" id="todo-label">New Todo</label>
+              <input type="text" id="todo-input">
+              <button type="submit">Add Todo</button>
+            </form>
+          
+            <template id="list-item-template">
+              <li class="list-item">
+                <label class="list-item-label">
+                  <input type="checkbox" data-list-item-checkbox>
+                  <span data-list-item-text></span>
+                </label>
+                <button data-button-delete>Delete</button>
+              </li>
+            </template>
         </main>
         <script src="index.js"></script>
     </body>
